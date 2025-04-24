@@ -1,5 +1,7 @@
 # Getting Started Guide for the Alice 4k and Alice 32
 
+![Alice 32 image from https://www.system-cfg.com/detailcollection.php?ident=216](images/alice32.jpg)
+
 A French version of this document exists (more or less) on the system-cfg forum:
 https://forum.system-cfg.com/viewtopic.php?f=27&t=12900
 
