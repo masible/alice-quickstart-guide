@@ -15,10 +15,10 @@ Connections are described at: https://alice.system-cfg.com/hardware.php#connect
 
 ## Software
 
-You can download some software from the Alice MEGA link at:
-http://web.archive.org/web/20210306075300/http://www.le-grenier-informatique.fr/pages/les-telechargements/jeux.html
+You can download some software (originally linked from [Le Grenier Informatique](http://web.archive.org/web/20210306075300/http://www.le-grenier-informatique.fr/pages/les-telechargements/jeux.html)) by following this link:
+[Pack 37 Jeux Alice.zip](data/Pack 37 Jeux Alice.zip)
 
-Mind the password for the archive. It contains a number of Alice (and some MC-10) games as WAV files.
+It contains a number of Alice (and some MC-10) games as WAV files.
 
 Depending on the hardware you have access to, you might want to instead use this video DVD as a player (look for *« Le DVD Alice »*):
 https://alice.system-cfg.com/liens.php
