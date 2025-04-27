@@ -16,7 +16,7 @@ Connections are described at: https://alice.system-cfg.com/hardware.php#connect
 ## Software
 
 You can download some software (originally linked from [Le Grenier Informatique](http://web.archive.org/web/20210306075300/http://www.le-grenier-informatique.fr/pages/les-telechargements/jeux.html)) by following this link:
-[Pack 37 Jeux Alice.zip](data/Pack 37 Jeux Alice.zip)
+[Pack 37 Jeux Alice.zip](data/Pack%2037%20Jeux%20Alice.zip)
 
 It contains a number of Alice (and some MC-10) games as WAV files.
 
